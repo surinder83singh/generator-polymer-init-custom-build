@@ -3,15 +3,16 @@
   "version": "2.0.1",
   "description": "TPL-A for building apps using polymer-build",
   "authors": [
+    "surinder83singh",
     "The Polymer Authors"
   ],
   "keywords": [
     "yeoman-generator"
   ],
   "license": "BSD-3-Clause",
-  "repository": "PolymerElements/generator-polymer-init-custom-build",
+  "repository": "surinder83singh/generator-polymer-init-tpl-a",
   "bugs": {
-    "url": "https://github.com/PolymerElements/generator-polymer-init-custom-build/issues"
+    "url": "https://github.com/surinder83singh/generator-polymer-init-tpl-a/issues"
   },
   "main": "generators/app/index.js",
   "files": [
